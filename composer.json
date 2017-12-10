@@ -1,0 +1,21 @@
+{
+    "name": "rubarbdigital/yii2-core-installer",
+    "description": "Installer for rubarb modules",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MactepDark",
+            "email": "mactep@rubarbs.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+      "psr-4": {
+        "rubarbdigital\\coreInstaller\\": ""
+      }
+    }
+}
