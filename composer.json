@@ -3,6 +3,7 @@
     "description": "Installer for rubarb modules",
     "type": "yii2-extension",
     "require": {
+        "php": ">=5.4.0",
         "yiisoft/yii2": "~2.0.0"
     },
     "license": "MIT",
@@ -12,7 +13,7 @@
             "email": "mactep@rubarbs.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
       "psr-4": {
         "rubarbdigital\\coreInstaller\\": ""
