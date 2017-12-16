@@ -13,7 +13,6 @@
             "email": "mactep@rubarbs.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
       "psr-4": {
         "rubarbdigital\\coreInstaller\\": ""
