@@ -1,5 +1,7 @@
 <?php namespace rubarbdigital\coreInstaller;
-
+/**
+ * Initial installer module
+ */
 use yii\base\Component;
 
 class CoreInstaller extends Component {
