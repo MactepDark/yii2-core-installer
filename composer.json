@@ -8,6 +8,7 @@
         "yiisoft/yii2-imagine": "~2.1.0"
     },
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "MactepDark",
